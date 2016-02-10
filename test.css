@@ -1,0 +1,55 @@
+body {
+    background-image: url(pambackground-test2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.navbar {
+    height: 60px;
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    color: #fafafa;
+}
+
+.topbar {
+    margin: 0;
+}
+
+.jumbotron {
+    color: #fafafa;
+    height: 400px;
+    background-color: transparent;
+}
+
+.articles, .karosel {
+    background-color: #fff;
+}
+
+
+.karosel #more-user img {
+    height: 300px;
+}
+
+.karosel #more-user a {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+.karosel #carousel {
+    width: 600px;
+    height: 300px;
+    /*margin: 0 auto;*/
+}
+
+.karosel #carousel img {
+    background-size:;
+    width: 600px;
+    height: 300px;
+}
+
+.item img {
+    width: 600px;
+    height: 600px;
+}
